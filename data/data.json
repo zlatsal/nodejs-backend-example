@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "name": "Product name",
+        "hasDiscount": true,
+        "discount": 25,
+        "originalPrice": 4000,
+        "image": "image-0.png",
+        "star": 4
+    },
+    {
+        "id": 1,
+        "name": "Product name",
+        "hasDiscount": true,
+        "discount": 25,
+        "originalPrice": 4000,
+        "image": "image-1.png",
+        "star": 4
+    },
+    {
+        "id": 2,
+        "name": "Product name",
+        "hasDiscount": true,
+        "discount": 25,
+        "originalPrice": 4000,
+        "image": "image-2.png",
+        "star": 4
+    },
+    {
+        "id": 3,
+        "name": "Product name",
+        "hasDiscount": true,
+        "discount": 25,
+        "originalPrice": 4000,
+        "image": "image-3.png",
+        "star": 4
+    },
+    {
+        "id": 4,
+        "name": "Product name",
+        "hasDiscount": true,
+        "discount": 25,
+        "originalPrice": 4000,
+        "image": "image-4.png",
+        "star": 4
+    }
+]
